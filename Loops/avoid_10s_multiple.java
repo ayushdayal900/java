@@ -18,5 +18,4 @@ public class avoid_10s_multiple {
             System.out.println("Showing number : " + number);
         } while (true);
     }
-
 }
